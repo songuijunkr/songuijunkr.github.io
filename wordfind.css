@@ -3,9 +3,7 @@
   padding: 20px;
   float: left;
   margin: 30px 20px;
-  position:relative;
-  top:50%;
-  left:50%;
+
     
  
 }
@@ -62,9 +60,7 @@
   column-count: 1;
   column-gap: 70px;
   width: 200px;
-  position:relative;
-  top:50%;
-  left:50%;
+  
  
 }
 
@@ -90,10 +86,7 @@
   background-color:#ffffff;
   transition-duration: 0.4s;
  
-  position:relative;
-  top:50%;
-  left:39%;
-  
+ 
   
 
 
