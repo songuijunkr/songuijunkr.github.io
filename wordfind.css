@@ -82,7 +82,7 @@
   border:none;
   background-color:#ffffff;
   transition-duration: 0.4s;
-  right:0;
+  
 
 
 
@@ -92,5 +92,5 @@
 }
 
 #solve {
-  margin: 0 30px;
+  margin: 0 0;
 }
