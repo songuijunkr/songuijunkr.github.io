@@ -82,7 +82,8 @@
   border:none;
   background-color:#ffffff;
   transition-duration: 0.4s;
-  right:30%
+  position:absolute;
+  left: 0%;
   
 
 
