@@ -3,9 +3,7 @@
   padding: 20px;
   float: left;
   margin: 30px 20px;
-  position:absolute;
-  top:25%;
-  left:40%;
+ 
 }
 
 #puzzle-container div {
@@ -60,9 +58,7 @@
   column-count: 1;
   column-gap: 70px;
   width: 200px;
-  position:absolute;
-  top:25%;
-  left:70%;
+ 
 }
 
 #puzzle-words ul {
@@ -87,8 +83,7 @@
   background-color:#ffffff;
   transition-duration: 0.4s;
   position:absolute;
-  top:70%;
-  left:48.5%;
+
 
 }
 #solveBTN:hover {
